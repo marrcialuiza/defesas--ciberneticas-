@@ -1,4 +1,6 @@
 # Compreendendo Ataques DDoS e Como Proteger Sua Rede
+![Descrição da Imagem](imagens/nome-da-imagem.png)
+
 
 ## O que é um Ataque DDoS?
 Um ataque DDoS (Distributed Denial of Service) visa interromper o funcionamento de sistemas, como servidores ou websites, sobrecarregando-os com uma quantidade massiva de tráfego, tornando-os inacessíveis para usuários legítimos.
