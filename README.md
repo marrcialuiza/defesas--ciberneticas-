@@ -1,5 +1,6 @@
 # Compreendendo Ataques DDoS e Como Proteger Sua Rede
-![Ataque DDoS](https://github.com/marrcialuiza/defesas-ciberneticas/blob/main/imagens/ddos-attack.png?raw=true)
+![Ataque DDoS](ddos-attack.png)
+
 
 
 ## O que é um Ataque DDoS?
